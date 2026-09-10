@@ -5,9 +5,8 @@ MSc dissertation project (MATH5872M, University of Leeds, School of Mathematics)
 of prescription-to-over-the-counter (OTC) cross-sell patterns in a UK online pharmacy's
 full customer base, conducted with Pharmacy2U.
 
-**Author:** [Insert your full name here] ([Insert student ID])
-**Academic supervisor:** Dr Luisa Cutillo (School of Mathematics)
-**Industry technical review:** Mustafa Ghafouri, Jack Denham (Pharmacy2U)
+**Author:** Fidan Khanlarova (202014247)
+**Academic supervisors:** Dr Luisa Cutillo (School of Mathematics), Mustafa Ghafouri (Pharmacy2U), Jack Denham (Pharmacy2U)
 **Submitted:** September 2026
 
 ## Overview
